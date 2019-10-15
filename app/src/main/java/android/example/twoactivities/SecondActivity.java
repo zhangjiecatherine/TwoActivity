@@ -28,8 +28,6 @@ public class SecondActivity extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id.text_message);
         textView.setText(message);
 
-
-
     }
 
     public void returnReply(View view) {
